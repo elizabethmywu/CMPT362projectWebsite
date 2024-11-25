@@ -8,6 +8,7 @@
 .vid {
     background-color: lavender;
     padding: 1em;
+    flex-grow: 45%;
 }
 
 #nameImage {
@@ -33,12 +34,4 @@
     flex-wrap: wrap;
     /* grid-template-columns: 1fr 1fr; */
     column-gap: 0.5em;
-}
-
-#pitch {
-    flex-grow: 1;
-}
-
-#showAndTell {
-    flex-grow: 1;
 }
