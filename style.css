@@ -35,3 +35,38 @@
     /* grid-template-columns: 1fr 1fr; */
     gap: 0.5em;
 }
+
+
+img {
+    display: block;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nameImage {
+    margin: 0;
+}
+
+section {
+    margin: 10rem 0rem;
+}
+
+#team {
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* grid-template-columns: 1fr 1fr; */
+    gap: 0.5em;
+}
+
+ul { 
+    display: inline-block; 
+    text-align: left; 
+}
+
+a {
+    margin: 2rem 3.5rem;
+}
